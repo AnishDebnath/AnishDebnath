@@ -2,7 +2,7 @@
 
 <h2> :man_technologist: About Me : </h2>
 
-I am a **UI Developer** <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> --> from India.
+I am a **UI/UX Developer** <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> --> from India.
 
 - :spider_web: Build responsive UI from designs using HTML, CSS, and JavaScript.
 
