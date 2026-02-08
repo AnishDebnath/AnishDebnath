@@ -4,7 +4,7 @@
 
 I am a **UI/UX Developer** <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> --> from India.
 
-- :spider_web: Build responsive UI from designs using HTML, CSS, and JavaScript.
+- :spider_web: Build responsive UI websites and applications.
 
 - :telescope: Completed B.Tech in CSE in Narula Institute of Technology and sharpening my programming skills parallelly.
 
