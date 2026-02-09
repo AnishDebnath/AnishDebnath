@@ -10,7 +10,7 @@ I am a **UI/UX Developer** <!-- <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: Exploring new world and gaining new experience everyday.
 
-- :zap: In my free time, Keep up with latest UI trends and tools.
+- :zap: In my free time, Keep up with latest UI/UX trends and tools.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anish-debnath-7b3516211)
 
