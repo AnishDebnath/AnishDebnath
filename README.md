@@ -37,11 +37,9 @@ I am a **UI/UX Developer** <!-- <img src="https://media.giphy.com/media/WUlplcMp
 
 </div>
 
----
+<!-- <h2> :fire: My Stats : </h2>
 
-<h2> :fire: My Stats : </h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishDebnath&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishDebnath&layout=compact&theme=vision-friendly-dark) -->
 
 <!--
 **AnishDebnath/AnishDebnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
