@@ -16,7 +16,15 @@
 
 ###
 
-<p align="left">🕸️ Build trending responsive UI websites and applications.<br><br>🔭 Completed B.Tech in CSE in Narula Institute of Technology and sharpening my programming skills parallelly.<br><br>🌱 Exploring new world and gaining new experience everyday.<br><br>🎯 Goals: Help all small businesses get into the world of the internet.<br><br>📚 I'm currently learning Futter to build crazy Mobile Applications.<br><br>⚡ In my free time, Keep up with latest UI/UX trends and tools.<br><br>✨ Creating bugs since 2001.<br><br>🎲 Fun fact: AI can't replace Dev, Developer with AI replace all of them.<br><br>📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-debnath-7b3516211)</p>
+<p align="left">
+🕸️ Build trending responsive UI websites and applications.<br><br>
+🔭 Completed B.Tech in CSE in Narula Institute of Technology and sharpening my programming skills parallelly.<br><br>
+🌱 Exploring new world and gaining new experience everyday.<br><br>
+🎯 Goals: Help all small businesses get into the world of the internet.<br><br>
+📚 I'm currently learning Futter to build crazy Mobile Applications.<br><br>
+⚡ In my free time, Keep up with latest UI/UX trends and tools.<br><br>
+✨ Creating bugs since 2001.<br><br>🎲 Fun fact: AI can't replace Dev, Developer with AI replace all of them.<br><br>
+📫 How to reach me: <a href="https://www.linkedin.com/in/anish-debnath-7b3516211" target="blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge" /></a></p>
 
 ###
 
