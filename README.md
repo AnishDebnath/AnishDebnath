@@ -1,8 +1,14 @@
+<div align="left">
+  <img height="200" src="https://ajmendez.github.io/assets/helloworld_finished.png"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 I'm Anish Debnath</h1>
 
 ###
 
-<h4 align="center">I am a UI/UX Developer from India. Delivering AI-Powered Web Applications into World Wide Web (www) 🌐</h4>
+<h3 align="center">I am a UI/UX Developer from India. Delivering AI-Powered Web Applications into World Wide Web (www) 🌐</h3>
 
 ###
 
@@ -10,7 +16,7 @@
 
 ###
 
-<p align="left">🕸️ Build trending responsive UI websites and applications.<br>🔭 Completed B.Tech in CSE in Narula Institute of Technology and sharpening my programming skills parallelly.<br>🌱 Exploring new world and gaining new experience everyday.<br>🎯 Goals: Help all small businesses get into the world of the internet.<br>📚 I'm currently learning Futter to build crazy Mobile Applications.<br>⚡ In my free time, Keep up with latest UI/UX trends and tools.<br>✨ Creating bugs since 2001.<br>🎲 Fun fact: AI can't replace Dev, Developer with AI replace all of them.<br>📫 How to reach me: Linkedin</p>
+<p align="left">🕸️ Build trending responsive UI websites and applications.<br><br>🔭 Completed B.Tech in CSE in Narula Institute of Technology and sharpening my programming skills parallelly.<br><br>🌱 Exploring new world and gaining new experience everyday.<br><br>🎯 Goals: Help all small businesses get into the world of the internet.<br><br>📚 I'm currently learning Futter to build crazy Mobile Applications.<br><br>⚡ In my free time, Keep up with latest UI/UX trends and tools.<br><br>✨ Creating bugs since 2001.<br><br>🎲 Fun fact: AI can't replace Dev, Developer with AI replace all of them.<br><br>📫 How to reach me: Linkedin</p>
 
 ###
 
