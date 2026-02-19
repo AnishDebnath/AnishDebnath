@@ -1,8 +1,10 @@
 <div align="left">
-  <img height="200" src="https://ajmendez.github.io/assets/helloworld_finished.png"  />
+  <img height="245" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <h1 align="left">Hey 👋 I'm Anish Debnath</h1>
 
@@ -83,9 +85,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/AnishDebnath/https://github.com/AnishDebnath/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/AnishDebnath/https://github.com/AnishDebnath/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/AnishDebnath/https://github.com/AnishDebnath/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnishDebnath/AnishDebnath/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnishDebnath/AnishDebnath/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnishDebnath/AnishDebnath/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
