@@ -23,7 +23,7 @@
 🎯 Goals: Help all small businesses get into the world of the internet.<br><br>
 📚 I'm currently learning Futter to build crazy Mobile Applications.<br><br>
 ⚡ In my free time, Keep up with latest UI/UX trends and tools.<br><br>
-✨ Fixing bugs since 2001.<br><br>🎲 Fun fact: AI can't replace Dev, Developer with AI replace all of them.<br><br>
+✨ Creating bugs since 2001.<br><br>🎲 Fun fact: AI can't replace Dev, Developer with AI replace all of them.<br><br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/anish-debnath-7b3516211" target="blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge" /></a></p>
 
 ###
